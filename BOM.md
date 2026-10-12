@@ -8,13 +8,13 @@
 
 | Week | Tier | Parts funding |
 | --- | --- | --- |
-| Week 1 | Tier 1 | $30.00 |
+| Week 1 | Tier 2 | $65.00 |
 
 | Part | What it's for | Qty | Unit | Total | Vendor |
 | --- | --- | --- | --- | --- | --- |
 | [PCBA](https://cart.jlcpcb.com/shopcart/cart) | Devboard | 1 | $38.76 | $38.76 | [JLCPCB](https://cart.jlcpcb.com/shopcart/cart) |
 | **Parts subtotal** | — | — | — | **$38.76** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$38.76** | — |
+| **Tax & shipping** | — | — | — | **$3.00** | — |
+| **Total** | — | — | — | **$41.76** | — |
 
-**$8.76 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+$23.24 left of the tier's funding.
