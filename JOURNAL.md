@@ -8,7 +8,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 2 | 15h | 4 |
+| Week 1 | Tier 2 | 14h | 4 |
 
 ## Contents
 
@@ -64,7 +64,7 @@ all yall send prayers i need this
 
 ### 2026-10-11 – So like I said i went to redo my stuff and it went smoothly It's really Identical compared to the first part partly because i tried my best to make my routing look like the tutorial I added some silks
 
-**4h**
+**3h**
 
 So like I said i went to redo my stuff and it went smoothly It's really Identical compared to the first part partly because i tried my best to make my routing look like the tutorial I added some silkscreen to make it unique so I guess now all thats left is to upload all the stuff
 
