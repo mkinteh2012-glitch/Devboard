@@ -6,6 +6,8 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
+> Devboard trying to redeem myself after the last one sold
+
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
 | Week 1 | Tier 2 | 14h | 4 |
